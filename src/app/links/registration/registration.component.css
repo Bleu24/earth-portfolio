@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    width: 400px;
+    height: 200px;
+    position: fixed;
+    justify-content: center;
+    z-index: 10000;
+    margin-left: 55rem;
+    margin-top: 15rem;
+    color: white;
+    font-size: 100px;
+    font-family: 'JetBrains Mono', monospace;
+}
